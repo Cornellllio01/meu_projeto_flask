@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Bytecode Python
+__pycache__/
+*.pyc
+
+# Banco local
+*.db
+
+# Configurações de IDE
+.vscode/
