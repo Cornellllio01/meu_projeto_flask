@@ -5,8 +5,8 @@ venv/
 __pycache__/
 *.pyc
 
-# Banco local
+# Banco de dados local
 *.db
 
-# Configurações de IDE
+# Configurações locais de editor
 .vscode/
